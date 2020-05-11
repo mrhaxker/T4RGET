@@ -4,8 +4,8 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Rana Aahil     #
-        #    Facebook Contact:       Aahil          #
+        #    Facebook BruteForce, by Mr Afzaal.     #
+        #    Facebook Contact:      Afzaal          #
         #                                           #
         #############################################
 
@@ -35,7 +35,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-print '\nIM NOT RESPONSIBLE FOR ANY MISS USE AAHIL\n'
+print '\nIM NOT RESPONSIBLE FOR ANY MISS USE AFZAAL\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
